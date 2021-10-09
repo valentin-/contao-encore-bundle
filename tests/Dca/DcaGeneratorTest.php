@@ -10,7 +10,7 @@ namespace HeimrichHannot\EncoreBundle\Test\Dca;
 
 use Contao\TestCase\ContaoTestCase;
 use HeimrichHannot\EncoreBundle\Dca\DcaGenerator;
-use Symfony\Component\Translation\TranslatorInterface;
+use Symfony\Contracts\Translation\TranslatorInterface;
 
 class DcaGeneratorTest extends ContaoTestCase
 {

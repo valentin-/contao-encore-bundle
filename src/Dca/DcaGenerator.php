@@ -8,7 +8,7 @@
 
 namespace HeimrichHannot\EncoreBundle\Dca;
 
-use Symfony\Component\Translation\TranslatorInterface;
+use Symfony\Contracts\Translation\TranslatorInterface;
 
 class DcaGenerator
 {
